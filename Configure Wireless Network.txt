@@ -1,0 +1,16 @@
+Configure Wireless Network
+
+-Wireless Router
+-2 wireless endpoints
+-1 PC
+-1 access point
+
+SSID - identifies wireless network
+DHCP - automatically assigns IP addresses
+
+
+from wireless router's GUI change the SSID from basic wireless setup, 2.437 GHz,
+connect both wireless endpoints to adapters
+
+Ping works because the SSID was changed and both wireless devices were successfully able
+to connect to the adapter that is connected to the wireless router.
